@@ -1,0 +1,26 @@
+{
+  "name": "Bettie Hall",
+  "age": 23,
+  "address": {
+    "street": "Ozho Junction",
+    "city": "Jakozma",
+    "state": "CT",
+    "zip": "19092"
+  },
+  "contact": {
+    "phone": "(730) 304-7281",
+    "servicePhone": "800599193"
+  },
+  "birthday": "2004-01-19T07:05:14.243Z",
+  "ip": "113.181.119.213",
+  "foo": "bar",
+  "profile": {
+    "about": "Meeweop wezika kaj wunif sezilo ogatopo seberseh uw dowof cizinki ovo uwupugfe dejzu. Asila no hef di uca jorumlek dupiz nu nac mafali tuvzohis heh ihezez jolbage sav. Hunoj unouz udmol ococebod liroez ruwarlus lesvuzliz aluocuvib hejdunvov nawtigbid nig emdovit. He cabceni le rihil zifa dot ofped ki ivonoga bownuh pibuko rihomazu vemubwab udca punihni bazbupgo lil. Zujlo cerjem kiciccoh agi dezoaje ubjep ja uwgibwa wepcel obfevgih sejo wop tukuco uzatuw. Ru ma repide aviwopsow bukleshi amigu beenu zelrugale la ihegouw ror esala iki upwisep.",
+    "bio": "Lo za rojook wumcorfe rutbewo nuavwig vu oberiwuf fuw buglo lanfob zu cowo rimme alufismak. Jiw ino fobdihi locipuw refsem lahriar apu vekoini uvilani imesega wo iside epoumovu vetabduh kezede ec cem. Vivo wup sittojaf ethokiv ta do miritjim dipuhi fibem ripnu lu rofuve sigaw ela lacpe lim. Opi ojbuge bappijge ta ilub olwifili daek fusob zejezzin roer natidkaj fufince dekhezma uw jone guvsiago."
+  },
+  "apiKey": "3c0d984e8aaf6dc7562b7f3f968a217723d80de1807ef8439756cb09dc33afd3",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
