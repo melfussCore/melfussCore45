@@ -1,0 +1,26 @@
+{
+  "name": "Minnie Vargas",
+  "age": 34,
+  "address": {
+    "street": "Zebep Avenue",
+    "city": "Olopoewo",
+    "state": "MT",
+    "zip": "07592"
+  },
+  "contact": {
+    "phone": "(239) 872-3624",
+    "servicePhone": "800173451"
+  },
+  "birthday": "1971-04-30T17:56:53.810Z",
+  "ip": "219.134.187.151",
+  "foo": "bar",
+  "profile": {
+    "about": "Udoju elucaret pi fupdauh iti lori fivo tercoh kiwob tejfafa ti napewkok ve igutupol fegaknid punsuwrup tobi. Rizeler umoimu zebrifu nacnelul cal sepu daneina ew turco ivvisduh ac rubo tawem di jes bu gictormi. Uhe coehe bucip iva kehivev likmombet duhcu rugi vulag kur ot sunoh.",
+    "bio": "Vorbikim juujousi pedhewi fufo rebuula alu kizdanse af vejij lec dehi tigot jikuv. Sieca oc dunekogim cu emoekuwod il revi vievatep lomet adbo vumur lurivfow lalo. Pi pewle gofza da vof ju ez mimifi he sug ja jovsa osa ruhfoib. Lov ipvakol hoab fugit abehueg jatguin ubsed biktiwhi jewad gefej we zesdoalo we etuk."
+  },
+  "apiKey": "174ef2365165b8cd615a87eb5b1bde456d9aa774770d25d67a4086b457a0fb66",
+  "currency": {
+    "code": "NAD",
+    "name": "Namibia Dollar"
+  }
+}
