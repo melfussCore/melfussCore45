@@ -1,0 +1,26 @@
+{
+  "name": "Alejandro Jacobs",
+  "age": 31,
+  "address": {
+    "street": "Teoh View",
+    "city": "Laghaaw",
+    "state": "MA",
+    "zip": "81167"
+  },
+  "contact": {
+    "phone": "(309) 911-6868",
+    "servicePhone": "800836729"
+  },
+  "birthday": "2003-01-18T17:02:39.352Z",
+  "ip": "73.177.136.219",
+  "foo": "bar",
+  "profile": {
+    "about": "Zozut zowbek oj iweri zimbeb ki lol susluk ekasabbo su valari fenicej nujgijwog. Muf jinmaj wudlev ozu dizude curicaso pitvidkam we wihozli ohu padeejo higwula. Zawurok bosilima lapevu ko kol heawe po huzab vutjocul ji kater oru guduk zepcima ebi rudavsog jefom lejelaz.",
+    "bio": "Pi ivu kuugnif fuhicod nucgopor fit gesu olasoc vis vuggunan zopkaw naepa jigijdo wawcozpad. Botfov ow vuha dikdeled cun gufluplir argac gobhi bem hicif wiow fadjimte ut nel. Wubvo jegaljo fewijori bite sumza awwezo datanpa awligsa dil munoke gislejif lip tisu ja bot mokcov emazisfus pat. Fa jok luhufe miricha rozad suvtukafe powat zapi im jemuktom alzu sozpo wikoud zugup resum vaksod to. Vunagaz patejone zo lun wulej sopuz ukucuj mi rurzuaci zaf biin vimew se nideved."
+  },
+  "apiKey": "26bc99e8930ce0f667efd0b72570a2f5c3c5ab9346dbfa41c1a7ac4100bba83c",
+  "currency": {
+    "code": "GTQ",
+    "name": "Guatemala Quetzal"
+  }
+}
