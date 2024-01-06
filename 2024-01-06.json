@@ -1,0 +1,26 @@
+{
+  "name": "Russell Mendoza",
+  "age": 21,
+  "address": {
+    "street": "Pabus Key",
+    "city": "Mewiga",
+    "state": "AK",
+    "zip": "99575"
+  },
+  "contact": {
+    "phone": "(301) 208-5140",
+    "servicePhone": "800493487"
+  },
+  "birthday": "2004-05-17T03:11:52.880Z",
+  "ip": "225.71.130.156",
+  "foo": "bar",
+  "profile": {
+    "about": "Sancavob natas fivepec jehuabi zettaf tukecfe kom he bec zakos og rugtoj hawuw lanfufap faegegaf hel. Ba acu pucju hu hogodsog ju vufekid zocdep nehac ductirop movelu ladeni bunobuh tuwuge. Ubcuvuv da lo az ri rezor iva fu dof ewuipuwis ihce uni getto lethiwzab hi.",
+    "bio": "Fusju emzijo uho luakhi boanuguf ju micweki homkerwam riz sa mofaj lopbo aroak lolebe dovinu el. Gasi pa otoltu be uliduwwig pececisep ges majwovi jufudze vutod mim kuf luhizdat. Wahedka edilobkek vacap fupi zet jevula sedev juzajopow kel ce ug tob calrias hopoib komguci."
+  },
+  "apiKey": "1f4b32cb8e9aeda3e805b0a577d22a5d0d0f2997f79bbc29220bd2fd8ab1b17d",
+  "currency": {
+    "code": "LAK",
+    "name": "Laos Kip"
+  }
+}
