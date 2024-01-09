@@ -1,0 +1,26 @@
+{
+  "name": "Clyde Ball",
+  "age": 50,
+  "address": {
+    "street": "Furo Way",
+    "city": "Tactaim",
+    "state": "KS",
+    "zip": "64294"
+  },
+  "contact": {
+    "phone": "(721) 585-9135",
+    "servicePhone": "800997337"
+  },
+  "birthday": "2003-07-26T07:29:27.279Z",
+  "ip": "56.225.157.241",
+  "foo": "bar",
+  "profile": {
+    "about": "Laluj ba nede ga teeba lilpiwlog onaji we konuzro ih bazfigi dib go facef mur ipowci. Avucil bun rojow vegagpo sebozabu za izumugi zena ruzoeri iko za absimuw jog lezfef lesidi cic bafem judpoccar. Roc se im kinethor atze robuhlop fabza boja imu hu lenobeca ti hilpez bo ribkado zab wa.",
+    "bio": "Woramos ro emgu fasage cajlan vibec halguj ke bucezu li keve wu dur akizis za arowe hu tag. Mojgep duc korpuhib ut tusle liuco fas dubpefre abu ibesiv calli ku tulfil fire. Ze si bafag emuhejjik botik rinnobvab fopani peisu pifdin zi de jenvucfu ot jafsihiv. Pa voud adire velzadaj enatogzej sontes mavo fo ferni ribivij lonzobore ferutavu se."
+  },
+  "apiKey": "27660f711407459cc8cff5eb31aef6b1e910ae41183d467dfa06b4ad23c0041c",
+  "currency": {
+    "code": "IQD",
+    "name": "Iraq Dinar"
+  }
+}
