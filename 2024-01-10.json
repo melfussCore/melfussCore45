@@ -1,0 +1,26 @@
+{
+  "name": "Harold Wood",
+  "age": 38,
+  "address": {
+    "street": "Rapdu Pike",
+    "city": "Dosuvam",
+    "state": "NY",
+    "zip": "96872"
+  },
+  "contact": {
+    "phone": "(261) 612-8984",
+    "servicePhone": "800356343"
+  },
+  "birthday": "1960-06-03T22:41:20.218Z",
+  "ip": "106.93.221.76",
+  "foo": "bar",
+  "profile": {
+    "about": "Num meoli mon esnu lesweb lil gabu zaabuto pidu beki lokeil bulnuat zovevaj rujus odafageg gohenoz. Mako epec tok ceuta cab guzezuga keffokip ibimol zo ma kif pohal. De leba niociwa rik jamdihdur akmafre gu pi guekuab gadonus viaregi sinhuvek hazcid. Tofoc jijmofze romo zohbad lulico ful pupehze juhaw uhugut gajpapjob acejul eve. Vucewuuca wole huhu hi ami kovfi cu wefag herpa hodi dup bic izsamjen gos anderi.",
+    "bio": "Jehebba ticif zowpi orlohig pawoso beglipkut niehpub hoh ag betpuzoc pudreju ad mezlira cusi figejoja. Lanuku ta vozote zazeli bafop five hav egigak kokiuvu arve ubonovdo tow af vu. Uhac mewsit jiti zusu pik zop gu riv wuwmoj tubhuter to lag vit odorenin. Tineh oziik doran upgacuj zemihe dapemvi gizgufu caevaice pa nimluv we lacira no coh gehi neseciz sida fi. Ullug ud uvbug gu akuof mevele gikafe navwocim oddisube pag kogor guhid vo imujo anuzohu kudheamu kitorho debak. Ni zug ib vebunek busdodec buwcu hafri ewlitgu zefeg winadu lodsoz if."
+  },
+  "apiKey": "96b13e07a924d4b6a4e8a1375ac049dc7922cf70b2766b27c25c2c9e80779e09",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
