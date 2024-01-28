@@ -1,0 +1,26 @@
+{
+  "name": "Gerald Johnson",
+  "age": 55,
+  "address": {
+    "street": "Upeti Path",
+    "city": "Pepihwe",
+    "state": "KS",
+    "zip": "27618"
+  },
+  "contact": {
+    "phone": "(969) 258-1494",
+    "servicePhone": "800353868"
+  },
+  "birthday": "2003-11-05T23:53:46.336Z",
+  "ip": "171.82.101.151",
+  "foo": "bar",
+  "profile": {
+    "about": "Huduzwu pat huw itzeh mij hujgihu todkedeza jowfotuj ipaarejo uwododfu julab midvubep cotis ijimew okipoafo fu. Hetpiffo sofjez va wo pathu zepaacu nojvota vuuf ase hetiboum aduke los iw. Habimap winumig zez rorammel mi uwit hog wu nehzupa ewoul hutne vehiga.",
+    "bio": "Olasonem usbub fu diuj ji uvlus ih inodiher upi esacuk ke diovovim posvead pe zugez di fu. Ig donej ove zen esuwudwi gazoje mace fujamo nusar folobpij haadanu kemnicuw como vunos acaap wifhazvi avuicoow mempofva. Awoza todkemjol tivdegiz ja ekedom buhnavosa levesi hebon jeobrit ahjegu obmidno idkama."
+  },
+  "apiKey": "fd37c9d4f34f481ab49f9061037348a04dc121d1a2688fc1256dd197f84ae402",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
