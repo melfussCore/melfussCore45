@@ -1,0 +1,26 @@
+{
+  "name": "Ann Myers",
+  "age": 34,
+  "address": {
+    "street": "Cuhcan Terrace",
+    "city": "Kovouzo",
+    "state": "KS",
+    "zip": "04722"
+  },
+  "contact": {
+    "phone": "(358) 470-9091",
+    "servicePhone": "800532662"
+  },
+  "birthday": "1962-02-01T05:36:15.649Z",
+  "ip": "148.145.240.20",
+  "foo": "bar",
+  "profile": {
+    "about": "Nejgeve fas daf buzuas rul bod tosrugij fomiha hivevo kudakod we fi ebvok. Ku labilo zokmebow wa rekkuez hudse na ahusuh gucoug og zucsu defvawaf dofvafa ro du fotu ka. Ho pe tucahga isziwow jun linbogi ibu voepat zuhalob pobad dudure wovi iwzecij uciju decozuc tujezco hijisen. Lurpulok vemid cohgivori ip hab waj sic sitikvu nug pigilaf ahitiw bizbu faapni ovpij. Hut cog do ab niwabhi ca zoma ugi bupuc ridsile ohfe ucono.",
+    "bio": "Tol gejupe ulahe redhe non me zuj kiw gola nadri wuful bemnelom takab owi. Kuz hagephuc zi co juldedpu zomi sewited wuk jeklone gi zebijvo ciwa favoz jodub jive dere. Ven caju tulu za ohsap mesfod lifozaw cuk pa ezmava mucrawniv hehput ucasa erepuhca codufa. Go uveposil ma agu ahumiik is nostumoh ji fotnu kuhidab sol la. Fahhud se ozubupel nutoheri owikaldas vil zok wo ivseige wetaz fepecob bulvakik jewtuezu ubtef niwno agnum."
+  },
+  "apiKey": "4ca85a6966d44cb05a185a35c6ef4485745ab70da4a47d546326a90055fe041e",
+  "currency": {
+    "code": "ZAR",
+    "name": "South Africa Rand"
+  }
+}
