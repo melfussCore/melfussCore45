@@ -1,0 +1,26 @@
+{
+  "name": "Gerald Harvey",
+  "age": 27,
+  "address": {
+    "street": "Neov Manor",
+    "city": "Inoboep",
+    "state": "OK",
+    "zip": "09726"
+  },
+  "contact": {
+    "phone": "(289) 366-3194",
+    "servicePhone": "800765814"
+  },
+  "birthday": "1987-07-22T17:53:28.858Z",
+  "ip": "22.50.248.115",
+  "foo": "bar",
+  "profile": {
+    "about": "Etiri hujridja saghi socro dew eri aloowe do rajaneb wove aro han pagupo. Suw ji womikge lilgeg kaoh puziabu zu od bal binnat fe upniho ruv je did lemin foto. Afked zina se muhtisos ubejim ru vim ivsokivi etjon opadazhuh ip sipug fowcapfo juwu uzoecina ti mafig. Hocepa jumlu bi jugaip jidahu ivece imurevon jita horrak tem dadtod zal ovfab ig.",
+    "bio": "Abdibzug wersewaw ojo bij lub ulepa pow jeb up zisgaco binte modzop wic luzza. Owwubo ad idzej ida irejmof zaiw dil tojivkal zedanat dapemrow titlidre zefodaz runera ke kakewhij ruz. Ri aroihuza jibzer buz lalug ceuse zi amiha vuco fuvkas nebudek punafuv."
+  },
+  "apiKey": "3564bc88823d3372dcefe56cdefec5b2e0ba2465b4ef6b25bebddbfb009b6fe8",
+  "currency": {
+    "code": "MYR",
+    "name": "Malaysia Ringgit"
+  }
+}
