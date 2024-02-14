@@ -1,0 +1,26 @@
+{
+  "name": "Shane Hardy",
+  "age": 29,
+  "address": {
+    "street": "Tokur Boulevard",
+    "city": "Gadenbih",
+    "state": "SC",
+    "zip": "68401"
+  },
+  "contact": {
+    "phone": "(480) 441-7449",
+    "servicePhone": "800821933"
+  },
+  "birthday": "2001-02-22T16:54:14.876Z",
+  "ip": "166.70.237.45",
+  "foo": "bar",
+  "profile": {
+    "about": "Puf lahifmuc awwirciv hutupuof til fedupiora mudzih inhilgas cage gi weug jugefok nebkozom tepagdi. Ifej iguekafel patuwbu weseka tufkaogu ufigo wasu pu zonronfol mit lavroeja ub bi jidtul utohakdun. Zabjupdez zo apgidez enaruh lek calgum cav ivojo osufulap makap paetnaz wu lajgebto.",
+    "bio": "Reetiki det taijuta cijeke meszo mu met siluti uc ot irocozi bi re vomkifro ham if be dupitsu. Boluh pazruihi va iwales ruotja miwhe gerogjus ci aticu ovoavuvu ipimepov pube okal siazedoz inasigvo irali. Taspaj ed we ib rid esruw atami hizfe duta al futeze ul pimeg. Efe huj wava bew jeswu heceroke jipevbof ipimo sueckas sabiz om pujub."
+  },
+  "apiKey": "598c600007c743a2018bd6bfde784a4e2f2dfa289357b4f7ea058ca1d1fbbf51",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
