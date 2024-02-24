@@ -1,0 +1,26 @@
+{
+  "name": "Oscar Underwood",
+  "age": 23,
+  "address": {
+    "street": "Nuof Road",
+    "city": "Deftuhza",
+    "state": "NM",
+    "zip": "14454"
+  },
+  "contact": {
+    "phone": "(731) 551-9876",
+    "servicePhone": "800527287"
+  },
+  "birthday": "1992-03-21T02:18:49.569Z",
+  "ip": "138.132.6.231",
+  "foo": "bar",
+  "profile": {
+    "about": "Fa fobos busisozo ho nej zehfubem hinfoh sa naif hibamih dumnoj wicdiwu ti doruzzus. Imbop ehepuvod fa zowuc legwaupo ne mo tu valulbe maujova baccafiz mulce re welkigac. Ker ho mi ji uv uszo vapmuh sok gemud jekvutuw ic oja apebeh heocud oleli lovasva. Cu ona adufej bavjal wac tus nufim mubebe ative vekissok dacef jiovegi.",
+    "bio": "Hejwi nuh zirwij ve dotofrih fazoklep lop lonto ezfitzi teg cavfo wezni zi. Kegottu kosvobcij ehjoj fovud kosabgan zacap bafkof kalef mam vawupdir miw ludjon ohiewaja ip didnipceb jehuwafuk wu eveler. Rin nib wunize mo osutig di mefnizmu nugik zihah ca itniad pi fig lon zoto."
+  },
+  "apiKey": "dbbfc67dfa30dd602185d6fe36727a51680c01dd36d03ce8d262906007cf9cfa",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
