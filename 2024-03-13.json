@@ -1,0 +1,26 @@
+{
+  "name": "Ollie Jacobs",
+  "age": 59,
+  "address": {
+    "street": "Pehnog View",
+    "city": "Abjelcu",
+    "state": "TN",
+    "zip": "33463"
+  },
+  "contact": {
+    "phone": "(630) 652-3670",
+    "servicePhone": "800652434"
+  },
+  "birthday": "1966-06-29T19:01:27.479Z",
+  "ip": "98.58.9.177",
+  "foo": "bar",
+  "profile": {
+    "about": "Cunja ifo niveb ziile coazo zodic govmumog mati gem vin le ni tolkac nuiw gatnu. If dona emubo dewos he owevo pato riw paru ko kaz jowcec uvoejpi woped gujne veogu. Fu vombib epowada wen fekvug tup haco emerah boh tel cag ruj.",
+    "bio": "Wot deh kowuj vulu zu hijma kimnij lis pedpazri kafapu ivo tebil zisnajbab wa jijeg cewegora. Jatfo bepus himuf pu re tota wuvet hu fukapupew dow huc fud fez pe. Icejiba beli lezicpa gunlo wonazuc uvobow bigu cerud vobij ahcoc kowi ki vi. Agkopsiw hafo gonah ev nucbabeh ha cav ikicegowu ze de kuz ub tanakpon coluve oh uzarire num. Lojuk ucol rakimku ew gugtiwhu dekhebuno ito fep isi nonoj afja goawewi le puilote fovva siztu jewucom kapizfe."
+  },
+  "apiKey": "bb21c5c564938daa86ac20294e293141cd1595c60fc103782c11dc36cc58c871",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
