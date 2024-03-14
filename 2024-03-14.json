@@ -1,0 +1,26 @@
+{
+  "name": "Steve Bowen",
+  "age": 62,
+  "address": {
+    "street": "Gucup Manor",
+    "city": "Tencoko",
+    "state": "VA",
+    "zip": "07999"
+  },
+  "contact": {
+    "phone": "(532) 404-4980",
+    "servicePhone": "800212135"
+  },
+  "birthday": "1991-10-02T08:57:08.489Z",
+  "ip": "70.32.170.139",
+  "foo": "bar",
+  "profile": {
+    "about": "Nu ovi sel bofhub duc ohakaz ak eciifar zawi kus efuejwit fuc fudge nic. Worin zijrom ted irwogmo nejvibob vuwuh az uf medceh uttoseh ditmilil ukeweobe ti asfutsed rualuve otulu vuka. Tevtunra za miljorle pa heub bijhof tamozapas movel raphuec tijhas oh kouzoma joebib govduwfe. Nac dowwuize mu ve ri bul duvuz wawu olikic haus cenor dak gaebasor.",
+    "bio": "Docful koztu hes teka utaka iltak ujudeen fe nig fo lu he. Rotfij gaw cigu ne gurazlod wojmud lec ridmab vugensoj ilgitgij etu bovobtuj. Zul tun wi zofikmak cucigeto sonbip saaba guv ulolocupu cup fijzovbar webid rumpekma. Vet ulilafoj luwgegbil jimgo lupegub cumomu wewa bopigiwep pauzuso kedkepu maz gaahaju dootema analogiv orowat savele. Cifaiz sanzepud cuka zuafiruw cac bogkaphop jas um jun defocupi vivavir nebikviz favzesi ehuf."
+  },
+  "apiKey": "d6484e9f08b9abd9d822633c093f5fdd44723be0b29824d4d7cb8bdc5f4575de",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
