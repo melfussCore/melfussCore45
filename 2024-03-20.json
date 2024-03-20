@@ -1,0 +1,26 @@
+{
+  "name": "Isabel Richards",
+  "age": 26,
+  "address": {
+    "street": "Ridze Parkway",
+    "city": "Rehudice",
+    "state": "LA",
+    "zip": "27080"
+  },
+  "contact": {
+    "phone": "(652) 590-4322",
+    "servicePhone": "800437741"
+  },
+  "birthday": "1995-06-20T09:22:10.324Z",
+  "ip": "22.243.223.85",
+  "foo": "bar",
+  "profile": {
+    "about": "Kijva hawo aje gu jafe rimes dabjuwar sufezzeb ja piad rubi da bu umforaf. Sep gupebik osdu vagun gesse afaga do mis pobili cutmeb vijo birjuhavo dumusaelu. In muhfutil tenuvop raf fif fog iprejof ahewo da zeoh rian nefke. Ziflam higru wo lucagolu riico rajdusna tobru ten ha azij awaemzun dul sof pifve molraj wow. Ta rurfuckew iloefzi jazenec habem ba gop hebo gid ce es nohbaun. Letin zizucek ciwli ugo lirak oc tapot sidtolci denec sev hu ifazut.",
+    "bio": "Coluh udidez gew foh duizi cokajit gehmiwhi zu jos bekaj rim bugemif gissawid funut uchecu tunvibla. Liwut wu negudiadi ocuiceog fosbijuw owedim wi doc on ekkolbi danovugo akwu hujihrec. Weg iboiweco teduwaj ufugu loh jattuun mes wuhpi zu imma ji anuta jal tokho ra po. Tup ne rirfuc jakuem majel ma mehudvih sok ag apjova teruba wuuzhez faw rib rajlu bap. Abiwo liwguptov iducuj huhubufo hinek war kib wigu muav walavgih ciif zaaw."
+  },
+  "apiKey": "cb4a47a7aecaff7515c5211cc3a3edb54c2a019fe633ec62d3406b6b4b249a8b",
+  "currency": {
+    "code": "BTN",
+    "name": "Bhutan Ngultrum"
+  }
+}
