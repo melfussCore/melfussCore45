@@ -1,0 +1,26 @@
+{
+  "name": "Charlie Maldonado",
+  "age": 20,
+  "address": {
+    "street": "Bosbuv Street",
+    "city": "Bezrurza",
+    "state": "ID",
+    "zip": "03854"
+  },
+  "contact": {
+    "phone": "(277) 690-5065",
+    "servicePhone": "800474316"
+  },
+  "birthday": "2006-11-03T07:12:17.290Z",
+  "ip": "92.129.234.234",
+  "foo": "bar",
+  "profile": {
+    "about": "Wow ginsadu jakpa joz ri huppu jokjusi epa hi hedcujuj tenhese ko lufpom vow mev ci. Jiice tivak pu mupnurom ice waw ah zaifa fiznopef amevoike pet kiwlito besuj uzag gef. Fuwvef jairrat zejwoige ridna semle somjunpe cefgehwor kat rotobah ce af kobesetuz to kihzugwel. Zahromud oti ihowuk vorag gezaih aju up zubomo unucban maz neh cu pokiz evoivkir. Juez wicsaf gi cabwi etahu ujiwa hoh tauko cow wenbo cobivwot ufoba wo mivugu vo. Zedcow ne fohce tov bivsezon evga big ni cabohil jowebvu vemanni caf avo wause ti.",
+    "bio": "Goj wil et bewa ketmiepa tuti jazmewelu zadiba zu et binwauca ta puokehiw ma no coez pavdejba. Lu sorotloc hotdup usu nirrezi bid obgovif ze dataziw zifun vepit ikeve vozel. Rem saocbuh vizgig usiket wuh he biduwoiwo of ric vod tewko ce karluwpe jujusaf ojde fiukafo."
+  },
+  "apiKey": "f3061f9f998f8c997deb633a592734267f0f635bc5f7e9c6ad6d8a7fab67b429",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
