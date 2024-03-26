@@ -1,0 +1,26 @@
+{
+  "name": "Craig Austin",
+  "age": 41,
+  "address": {
+    "street": "Wuvca Pike",
+    "city": "Pedowaz",
+    "state": "OH",
+    "zip": "64007"
+  },
+  "contact": {
+    "phone": "(672) 591-5983",
+    "servicePhone": "800429557"
+  },
+  "birthday": "1989-03-04T10:15:49.756Z",
+  "ip": "137.27.61.184",
+  "foo": "bar",
+  "profile": {
+    "about": "Faepjow dowipo vupmit apeg zaves imenu lo ilzuz wilipfu iz liwic raz mozerfew edi robnu agaeruta huz. Vo ki ri ru guwor nu gurbuwih cupvicare hupil vagro da puz ze umbe owi. Ema gefoaj fi eflenteb muvot gi filma nij tappuk we sotezaw poga ju evzeluca ud. Id vevne av ho wiftov gito lupure hipev ogcup bipfigi lop remup.",
+    "bio": "Ni jikuksav mohabmut bin ig omsas gi bohignu ifaja manoc tecacjo tihu omo bakukkuj. Pu zaw ennosab su azkogbi cun tutnigo it caredas uco fofjo bo fib sog ejojev uvuboh. Vijwal ura cuipe sativ jabnamli soadekeg bubut zeplu pi tis cirdubwo vis junma umzice nuco cebun sofoh okejawrum."
+  },
+  "apiKey": "502f6715490b4b284aedaa11d18aeb12062bcdcbe3c0d90ed36de88966c12b8e",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
