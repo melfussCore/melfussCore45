@@ -1,0 +1,26 @@
+{
+  "name": "Ann Alexander",
+  "age": 24,
+  "address": {
+    "street": "Zomho Street",
+    "city": "Dubehoke",
+    "state": "LA",
+    "zip": "92945"
+  },
+  "contact": {
+    "phone": "(404) 544-8342",
+    "servicePhone": "800928845"
+  },
+  "birthday": "2005-05-23T08:42:48.432Z",
+  "ip": "102.160.128.150",
+  "foo": "bar",
+  "profile": {
+    "about": "Guiteh foruem hovu cutu gor karuzjo ur leuksih cunav hecvir si zedburecu gam respoer huewa. Metofir em fojsen pimsulo relet susoje rozcuzco nures bowi asmeon he sab ris zem ritda uvi okiez. Ibadep izirat fuk he unip so luzsovpa mus nicebopa ijzoib isagej humri nasdeuca mekumdi ob.",
+    "bio": "Tufo amgac lewirebiv ne waepi bipluz rig zovpev eg geznojkim ummetu bifvuteg wuhep. Nuhuslo dos osemoh tu sota ag ve jit cicsig hogsup em avmujfu usi hupavu vokaka hot turbo. Aluroba hane li nu ces kuz defwavle diz ukniru ape hibanfij runji wulo cu kizuog. Mamhihceh ci jutut sapokot agveilu jazigacur mirtopdot ca do cir gemrubak emnedzug. Zimwa tudulvo si saso zobefgaj wikomga cafofha suc ufe haslet iriirol nucopnih buotoroz jifin dulfovsug fim hab."
+  },
+  "apiKey": "db75f3c230711d4f35357cd804df48a77dd28a7cd1009fb5b42ee72da2a86e4f",
+  "currency": {
+    "code": "SZL",
+    "name": "Swaziland Lilangeni"
+  }
+}
