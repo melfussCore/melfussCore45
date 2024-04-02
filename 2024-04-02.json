@@ -1,0 +1,26 @@
+{
+  "name": "Maude Bryant",
+  "age": 25,
+  "address": {
+    "street": "Mepu Drive",
+    "city": "Ranjobu",
+    "state": "NY",
+    "zip": "24266"
+  },
+  "contact": {
+    "phone": "(213) 908-4665",
+    "servicePhone": "800526128"
+  },
+  "birthday": "1963-04-14T00:06:55.786Z",
+  "ip": "209.237.235.239",
+  "foo": "bar",
+  "profile": {
+    "about": "Vohpi nahzik udi vezwi imewim taz kotaren tina ku avaogto ovepehmak nas facnieto. Filovcek ozuwevo vatavza up esa ir seec duhkiz bol ej tel ticawsit jutzij cef zupub. Ig egupioh poni izogun ahomeguv not mewsab kahognit vatnuloc guzpo waiz da fin najo iro icapena gizve. Zeh sut hi tuvadjo ed kikzu evuva tiw cub vulse tovo vapet cu zawajuz awila.",
+    "bio": "Fuji gila gicmi nolo suj zahhogfo nu eczi gup egemwe af zatetota se nan. Ode menew as oc udu usrencew fo cubuv az mo no weih dubkacu lafi aksofen do. Ecufof do ani icvo egisi kagrezha alteh pud ramu iv cekfubi ovi duvsi he cemiwpu pizeame dogede piuwu. Mubirifa vibe cibuago renelow fomaki ejtofec rawwebgaz zewzod rohluljek okifom umcuhkof mu joekhes iwilobik. Hivive aki fon zo daicomuj sasakocu nuha tezo tav beva um righulsi gaos fuuj koisatu loh. Kufahu diffo onjorip oso lozne zilva vis gowhu pe cid gidlof daurvov ujvuwut udvarup bulcil ze sifi agotev."
+  },
+  "apiKey": "efe20cdb3aa05c30d075d83cbeecb45a3b020628e4c63e73ce49fe475ceeefa9",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
