@@ -1,0 +1,26 @@
+{
+  "name": "Miguel Johnston",
+  "age": 25,
+  "address": {
+    "street": "Zidi Lane",
+    "city": "Zektofi",
+    "state": "NC",
+    "zip": "76336"
+  },
+  "contact": {
+    "phone": "(843) 681-7908",
+    "servicePhone": "800924627"
+  },
+  "birthday": "1979-07-03T19:09:21.396Z",
+  "ip": "236.255.56.167",
+  "foo": "bar",
+  "profile": {
+    "about": "Uvuenisoz tefefed fudiiko mo ifrani unzaec mawakrip siiwu ekvob lornozsi sijop ru kinej wo obepa fafde ib imizur. Cupu pubumep pi odiri bod eki zuav gusitja jadadho ten lo veclo ucadu tat avcudez towiwjab luhfiac. Ori capega gissihagu rozmewmer dumun asubijeh nidhoah je emu tegomhif jerveg subesi ak ezehooja. Zizingaw selap bazasoj ziezigod jalzafon pemusa zadotekaj zarejvur ber vol towural padnidok fienu ij efpuj rako. Avuvac ne zu huz pizjatta itu omiw partewvec mewpe woka ucro jifadahe afimotev. Retpineza bicov zi rubigpeb peprez jeg mu sis timi ogozuvo mum ki za wop ivuba.",
+    "bio": "Idzaz zajorosu agefib pifoz ihlibat donto vop culenop ku ihiamme refmimu enoopcu ce orifas jacikfub kovic kogota diute. Coinu muacesaz viuh igucuhu nezcom catca oze hurim umuadbus mu ahu ha. Ebe usuzezciw ruvokoj judoven asnev volu fihaf juwcem kubred mato hoc ti nujasal ifadavud livip pivse jos sipu."
+  },
+  "apiKey": "8b4a9a62a16a71b038ca76cd1105f478fecb5a73f045bc5e2dffe7a8759714ff",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
