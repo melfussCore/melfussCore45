@@ -1,0 +1,26 @@
+{
+  "name": "Mark McGuire",
+  "age": 43,
+  "address": {
+    "street": "Azloh Ridge",
+    "city": "Gublikiw",
+    "state": "MT",
+    "zip": "74951"
+  },
+  "contact": {
+    "phone": "(437) 562-6426",
+    "servicePhone": "800296593"
+  },
+  "birthday": "1993-04-16T13:03:06.395Z",
+  "ip": "200.245.87.135",
+  "foo": "bar",
+  "profile": {
+    "about": "Na tecakgav ziho moalehi fim ja abzutok sot mizien rimuh vu peroliuc as hatevu evo hur fubzim. Wovot ver dup govgupa co viged sin wirfa azra vu zufev wec hardupuj uvofi. Optotpi fautuw wapohtik ca mezek sazmu putge to aj bettohet ruv nobro vo. Iw waketilun losijnid vububto dueskep mu mi il ligaw guvofivo daska lababogun ad monasof anepidu subonvo.",
+    "bio": "Hamzobbam goce tuzemruh sob aja row ojoedub enaera unekoawi vo zozcuv sef virasuk la ze zebewral wefa wihzusde. Uno bija co bim ramosa vil rukroci wodjoj cozdovhi feko ihno zimdidvom vagom kutavzur hedu. Ob od tasmam on woga ses cudonho fuzfamlo zukuege mutege ran panar."
+  },
+  "apiKey": "e0dca6ac79b46195ebe266bd2a57e7fee68f4bb3a3a3dee4da6f214bb3ba024c",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
